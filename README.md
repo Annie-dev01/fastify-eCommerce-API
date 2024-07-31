@@ -33,16 +33,8 @@ This project sets up a basic eCommerce API using Fastify and Cassandra/ScyllaDB.
 
 4. **Run the setup script:**
 
-    ```sh
-    node path/to/your/script.js
-    ```
-
-    Replace `path/to/your/script.js` with the actual script path.
 
 ## License
 
 MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For questions, contact [your-email@example.com](mailto:your-email@example.com).
